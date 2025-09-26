@@ -14,5 +14,5 @@
 .cxx
 local.properties
 
-keystore
-keystore.properties
+/keystore
+/keystore.properties
