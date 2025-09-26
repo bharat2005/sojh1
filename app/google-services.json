@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "602262322757",
+    "project_id": "sojh1-48260",
+    "storage_bucket": "sojh1-48260.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602262322757:android:158a7b9ac3c0128a1d6d2c",
+        "android_client_info": {
+          "package_name": "com.bharat.sojh1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2DT8kOdxTUaIw_3s8n50KTLOr9UeqVyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
